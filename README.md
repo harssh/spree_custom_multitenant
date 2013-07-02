@@ -1,3 +1,5 @@
+***** Cutomizing to remove Auth dependency
+
 SpreeMultiTenant
 ================
 
