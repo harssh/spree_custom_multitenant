@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description = 'Allows completely separate Spree sites to be run from the same installation'
   s.required_ruby_version = '>= 1.8.7'
 
-   s.author            = 'Stefan Senk'
+   s.author            = 'Stefan Senk, Harssh S Shrivastava'
   # s.email             = 'you@example.com'
   # s.homepage          = 'http://www.spreecommerce.com'
 
